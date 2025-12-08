@@ -1,10 +1,10 @@
 # Retro Nightmare
 
 **Overview**
-Retro Nightmare is a 2D atmospheric survival game developed in Unity. The project features precision-based flight mechanics, challenging players to navigate a hazardous environment. Inspired by the gothic horror aesthetic of *Bloodborne*, the game prioritizes endurance, where survival time—rather than distance—determines the score.
+* Retro Nightmare is a 2D atmospheric survival game developed in Unity. The project features precision-based flight mechanics, challenging players to navigate a hazardous environment. Inspired by the gothic horror aesthetic of *Bloodborne*, the game prioritizes endurance, where survival time—rather than distance—determines the score.
 
 **Project Context**
-This application was developed as a project for a Game Development course. It served as a practical exploration of the Unity Engine ecosystem, focusing on C# scripting, object-oriented programming, and 2D physics implementation.
+* This application was developed as a project for a Game Development course. It served as a practical exploration of the Unity Engine ecosystem, focusing on C# scripting, object-oriented programming, and 2D physics implementation.
 
 **Key Features**
 * **Physics-Based Movement:** Implemented custom gravity and impulse logic for character control.
