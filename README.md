@@ -18,9 +18,3 @@ This application was developed as a project for a Game Development course. It se
 * **Engine:** ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 * **Language:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 * **IDE:** ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-## License and Copyright
-
-© Aikeen Kate 2025. All Rights Reserved.
-
-This project is posted for educational and portfolio purposes only. You are welcome to view the code to understand how it works, but you are not authorized to use, copy, modify, or distribute the assets or code for commercial or non-commercial purposes without my explicit permission.
